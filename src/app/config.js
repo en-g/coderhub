@@ -18,4 +18,5 @@ module.exports = {
 } = process.env
 
 module.exports.PRIVATE_KEY = PRIVATE_KEY
+
 module.exports.PUBLIC_KEY = PUBLIC_KEY
